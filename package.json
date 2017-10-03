@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ace": "0.0.2",
+    "ace": "0.1.0",
     "babelify": "^6.2.0",
     "brace": "^0.5.1",
     "braincrunch": "^1.0.1",
