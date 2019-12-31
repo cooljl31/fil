@@ -18,7 +18,7 @@
     "deferred": "^0.7.2",
     "gulp-babel": "^5.2.1",
     "gulp-concat": "^2.6.0",
-    "gulp-sass": "^2.0.4",
+    "gulp-sass": "^3.0.0",
     "merge2": "^0.3.6",
     "opal": "^0.6.4",
     "query-string": "^2.4.1",
